@@ -25,4 +25,4 @@ Para que eso funcione, recuerden que deben de ejecutar ese comando en el mismo d
 
 Para visualizar la consola de desarrollador, estando en la ventana del navegador, presionar a la vez las teclas Ctrl + Shift + i
 
-Les dejo un link para que puedan revisar el resultado del código con texto al cual se le aplican saltos de línea cada 50 caracteres o número mayor sin cortar la palabra.
+Les dejo un link para que puedan revisar el resultado del código con texto al cual se le aplican saltos de línea cada 50 caracteres o número mayor sin cortar la palabra: https://gabrieldp36.github.io/saltos-linea-app/
